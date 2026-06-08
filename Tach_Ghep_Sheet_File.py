@@ -14,7 +14,7 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.utils import get_column_letter as openpyxl_get_col_letter
 
 CURRENT_VERSION = "1.1"
-UPDATE_JSON_URL = "https://raw.githubusercontent.com/NguyenHieu0204/Ghep_File_Sheet/main/version.json"
+UPDATE_JSON_URL = "https://raw.githubusercontent.com/NguyenHieu0204/Ghep_File_Sheet/master/version.json"
 
 ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
