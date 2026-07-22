@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "download_url": "https://raw.githubusercontent.com/NguyenHieu0204/Ghep_File_Sheet/master/Output/Excel_Toolbox_Setup_v1.2.exe",
-  "release_notes": "Thêm tính năng cấu hình dòng tiêu đề cho tính năng Ghép Nhiều File."
+  "version": "1.4",
+  "download_url": "https://raw.githubusercontent.com/NguyenHieu0204/Ghep_File_Sheet/master/Output/Excel_Toolbox_Setup_v1.4.exe",
+  "release_notes": "Bổ sung đối soát nhiều cặp file, chọn sheet riêng cho từng cặp, tiến độ thực, bỏ qua lỗi, báo cáo kết quả và kiểm tra cập nhật."
 }
